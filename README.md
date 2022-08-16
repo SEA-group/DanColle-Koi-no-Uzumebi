@@ -1,10 +1,10 @@
-﻿# [HE/AP/SAP/tracer] 恋の埋火
+﻿# Koi no Uzumebi / 恋の埋火
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/SEA-group/DanColle-Koi-no-Uzumehi?include_prereleases)
-![GitHub last commit](https://img.shields.io/github/last-commit/SEA-group/DanColle-Koi-no-Uzumehi)
-![GitHub issues](https://img.shields.io/github/issues-raw/SEA-group/DanColle-Koi-no-Uzumehi)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/SEA-group/DanColle-Koi-no-Uzumebi?include_prereleases)
+![GitHub last commit](https://img.shields.io/github/last-commit/SEA-group/DanColle-Koi-no-Uzumebi)
+![GitHub issues](https://img.shields.io/github/issues-raw/SEA-group/DanColle-Koi-no-Uzumebi)
 
-HE & AP & SAP shell model + tracer modification
+Shell model modification + different tracer color for each shell type
 
 ## Installation
 * **For WGC users**, copy `content` and `particles` into `[WoWS folder]/bin/[largest number]/res_mods/`
